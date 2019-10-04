@@ -6,5 +6,5 @@ I am simply exploring SFML, playing with game mechanics, and working on a fun pr
 
 Controls are as follows:
 
-  Arrow keys or 'w' and 'd' keys for left and right movement
+  Arrow keys or 'w' and 'd' keys for left and right movement.
   Up arrow or space bar to fire
