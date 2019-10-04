@@ -1,6 +1,9 @@
 # SFML-Doodle-Jump
 A remake of Doodle Jump for PC, first C++ SFML game
 
+I have a long way to go before this is finished, right now it is a bunch of stringy code that barely works. 
+I'll do fine tuning and rename variables to be more user friendly in the future
+
 One important thing to note, I do not own Doodle Jump, all of the credit goes to the creators of the game.
 I am simply exploring SFML, playing with game mechanics, and working on a fun project.
 
